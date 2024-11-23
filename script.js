@@ -2,5 +2,5 @@
 
 document.addEventListener('DOMContentLoaded', function () {
   // Example: Add an alert when the page loads
-  alert("Thank you for visiting my website about S!");
+  alert("");
 });
